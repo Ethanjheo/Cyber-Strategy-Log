@@ -2,7 +2,7 @@
 
 **Author:** Michel Foucault  
 **Text:** *Discipline and Punish: The Birth of the Prison*  
-**Folder:** 2026 / Governance_and_Power / Michel_Foucault
+**Folder:** 2026 / Michel_Foucault / Discipline and Punish: The Birth of the Prison.md
 
 ---
 
