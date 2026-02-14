@@ -139,12 +139,29 @@ At times, restricting technological development may function as a necessary cond
 In contemporary society, culture no longer operates purely as spontaneous social expression, but as a mechanism that aligns individual behavior toward specific, managed outcomes.
 
 ---
-## My Reflection (To Be Written by Me)
+### References
+- Zuboff, S. (2019). *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*. PublicAffairs.
 
 
 ---
-## Note on Writing Support
+## My Reflection (To Be Written by Me)
+
+In contemporary digital capitalism, not only physical goods but also human behavior itself has become an asset. Platform companies accumulate users’ connection time, click patterns, emotional responses, and consumption behaviors as data, and analyze them to construct predictive models. In this process, users are no longer merely customers but become the “raw materials” of data production. Platform companies acquire this data virtually for free, process it, and then sell the resulting models to advertisers, political campaigns, and marketing firms.
+
+Within this structure, several significant problems emerge.
+
+First, there is the issue of information asymmetry embedded in terms and conditions agreements. These agreements are long, complex, and difficult to understand. Fully comprehending them requires considerable time and specialized knowledge. In reality, however, most users click “agree” without careful review. Refusing consent often leads to limited access to services or inconvenience in daily life. Therefore, this is not simply a matter of individual ignorance but a problem of structurally designed asymmetry.
+
+Second, there is the issue of informational inducement by platform companies. Through recommendation algorithms and personalization technologies, platforms guide users’ choices in specific directions. This goes beyond merely reflecting preferences; it represents a structural design that arranges attention and behavior according to the platform’s interests. The behavioral patterns and predictive outcomes formed in this way are then sold to external companies, gradually solidifying an induced environment into a new market structure.
+
+Third, there is the scalability of data models. Data is no longer collected for a single, clearly defined purpose but is broadly accumulated in anticipation of future use. New analytical models are continuously developed, and these models expand into further commercial and political applications. As a result, the scope of control exercised by governments and corporations gradually widens, while the sphere of individual freedom risks becoming increasingly constrained.
+
+Ultimately, innovation and technological advancement function as a double-edged sword. While they make society more convenient, they simultaneously generate new forms of discomfort and control. Information asymmetry deepens the gap between those who understand technology and those who do not. The inducement power of major platforms creates environments that are difficult to escape. The scalability of data models carries the potential to penetrate even the private sphere of life.
+
+The most alarming aspect is that control operates subtly. Individuals believe they are making autonomous choices, yet they may in fact be responding within structurally arranged conditions. Control is exercised not through overt coercion but through design. Choices exist, but the conditions of those choices have already been set. At this point, technology must be understood not merely as innovation but as a matter of power and autonomy.
+
+---
+
+### Note on Writing Support
 The book-summary section above was drafted with the assistance of GPT to improve structure and clarity.  
 The “My Reflection” section will be my original writing.
-## References
-- Zuboff, S. (2019). *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*. PublicAffairs.
