@@ -139,6 +139,12 @@ At times, restricting technological development may function as a necessary cond
 In contemporary society, culture no longer operates purely as spontaneous social expression, but as a mechanism that aligns individual behavior toward specific, managed outcomes.
 
 ---
+## My Reflection (To Be Written by Me)
 
+
+---
+## Note on Writing Support
+The book-summary section above was drafted with the assistance of GPT to improve structure and clarity.  
+The “My Reflection” section will be my original writing.
 ## References
 - Zuboff, S. (2019). *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*. PublicAffairs.
