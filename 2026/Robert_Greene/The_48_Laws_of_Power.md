@@ -18,6 +18,8 @@
 
 4. The book is heavily focused on gaining and maintaining power as a primary objective.
 
+---
+
 ## 1. Core Definition
 
 ### Power
