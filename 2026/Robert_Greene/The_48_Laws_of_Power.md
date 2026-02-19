@@ -8,7 +8,7 @@
 
 ---
 
-## Cautions When Reading the Book
+## *Cautions When Reading the Book
 
 1. Some principles may cross the boundaries of commonly accepted ethical norms.
 
