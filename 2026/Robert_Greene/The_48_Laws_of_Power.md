@@ -89,6 +89,8 @@ Power is maintained by:
 
 Understanding power reduces vulnerability before increasing dominance.
 
+---
+
 # My Integrative Thinking: Security and the Book
 
 1. In security, power is the level at which risk can be resolved.
@@ -104,6 +106,8 @@ Understanding power reduces vulnerability before increasing dominance.
 6. Strategically lead the public emphasis on the importance of security.
 
 7. Under legal grounds, build layered protection barriers to protect management.
+
+---
 
 ### Note on Writing Support
 The book-summary section above was drafted with the assistance of GPT to improve structure and clarity.  
