@@ -8,6 +8,16 @@
 
 ---
 
+## Cautions When Reading the Book
+
+1. Some principles may cross the boundaries of commonly accepted ethical norms.
+
+2. The reader may become overly cynical in their perception of people.
+
+3. Applying the outcomes directly to real life without considering contextual differences may cause unintended consequences.
+
+4. The book is heavily focused on gaining and maintaining power as a primary objective.
+
 ## 1. Core Definition
 
 ### Power
